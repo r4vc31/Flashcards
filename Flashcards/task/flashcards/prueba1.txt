@@ -1,0 +1,23 @@
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+add
+The card:
+saludo
+hi
+The pair ("saludo":"hi") has been added
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+add
+The card:
+despedida
+chao
+The pair ("despedida":"chao") has been added
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+remove
+Which card?
+despedida
+The card has been removed.
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+log
+File name:
+prueba1.txt
+prueba1.txt
+
